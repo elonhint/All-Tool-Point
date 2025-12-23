@@ -1,6 +1,8 @@
 # All-Tool-Point
 Free Online Web Tools for 2026 Workflows
+
 Why I Built This Repository
+
 After spending years jumping between ad-bloated conversion sites and high-priced SaaS subscriptions, I realized the web needed a cleaner, centralized alternative. Most "pro" tools are just wrappers for simple libraries—I wanted to provide those same high-tier utilities for free.
 
 Free online web tools shouldn't come with a "subscription tax." This project is my attempt to map out and provide the essential toolkit for modern developers and creators.
